@@ -1,16 +1,122 @@
-<h1 align="center">Hi 👋, I'm Paresh Karande</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+# 👋 Hi, I'm Paresh Karande
 
-- 💬 Ask me about **Data Analytics SQL Queries Power BI Dashboards Excel Reporting Business Analytics**
+🎯 **Data Analyst | SQL | Power BI | Python | Excel**  
+📍 India  
 
-- 📫 How to reach me **karandeparesh8@gmail.com**
+I am a **Data Analyst** with hands-on experience in **data cleaning, exploratory data analysis, SQL querying, Power BI dashboards, and Python-based analytics**.  
+I enjoy transforming raw data into **actionable business insights** and building **interactive dashboards** that support decision-making.
 
-- ⚡ Fun fact **I started my journey with technology and data, and now I enjoy turning raw data into meaningful insights 📊 From numbers to dashboards — data tells powerful stories! 🚀**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/paresh-karande-432734b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paresh-karande-432734b4/" height="30" width="40" /></a>
-</p>
+## 🔗 Connect With Me
+- 🌐 GitHub: 
+- 💼 LinkedIn: 
+- 📧 Email: 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Key Skills
+
+### 📊 Data Analytics
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Data Validation & Quality Checks  
+- Business Insights & Storytelling  
+
+### 🧮 SQL
+- Joins (Inner, Left, Right)
+- Subqueries & CTEs
+- Group By & Aggregations
+- Window Functions
+- Query Optimization
+
+### 🐍 Python
+- Pandas (Data Cleaning, EDA)
+- NumPy (Numerical Analysis)
+- Matplotlib & Seaborn (Visualization)
+- SciPy & Statsmodels (Statistics)
+- Automation & Scripting
+
+### 📈 Power BI
+- Data Modeling (Star Schema)
+- DAX (Measures & Calculated Columns)
+- Power Query (ETL)
+- Interactive Dashboards
+- Performance Optimization
+
+### 📊 Excel
+- Pivot Tables & Pivot Charts
+- Power Query & Power Pivot
+- XLOOKUP / VLOOKUP
+- Advanced Formulas
+- Dashboard Creation
+
+### 📉 Statistics
+- Descriptive Statistics
+- Hypothesis Testing
+- Correlation & Regression
+- Outlier Detection
+
+---
+
+## 📂 Featured Projects
+
+### 🎆 Diwali Sales Analysis
+**Tools:** Python, Pandas, Seaborn, Power BI  
+- Cleaned and transformed sales data
+- Performed EDA to identify customer behavior
+- Built Power BI dashboards for sales insights
+- Identified top-performing product categories & customer segments  
+
+📌 *Business Impact:* Helped identify high-revenue categories and customer demographics for targeted marketing.
+
+---
+
+### 🎓 Student Performance Analysis
+**Tools:** Python, SQL, Excel  
+- Data cleaning and feature engineering
+- Analyzed performance trends
+- Created summary dashboards
+
+📌 *Business Impact:* Enabled better academic performance tracking.
+
+---
+
+### 📊 Power BI Sales Dashboard
+**Tools:** Power BI, SQL  
+- Created star schema data model
+- Built KPIs using DAX
+- Designed interactive dashboards
+
+📌 *Business Impact:* Improved sales visibility and decision-making.
+
+---
+
+## 📘 What I’m Currently Working On
+- Advanced SQL & Window Functions  
+- Power BI DAX optimization  
+- End-to-end Data Analytics projects  
+- Real-world business case studies  
+
+---
+
+## 🧠 What You’ll Find in My GitHub
+✔ Data Analytics Projects  
+✔ SQL Practice Queries  
+✔ Power BI Dashboards  
+✔ Python EDA Notebooks  
+✔ Interview Preparation Notes  
+
+---
+
+## ⭐ Support
+If you find my work useful:  
+⭐ **Star the repositories**  
+🔔 **Follow me on GitHub**  
+
+👉 https://github.com/prafullwahatule  
+
+---
+
+## 📌 Quote I Believe In
+> *"Without data, you’re just another person with an opinion."* – W. Edwards Deming
