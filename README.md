@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paresh Karande
 
-🎯 **Data Analyst | SQL | Power BI | Python | Excel**  
+🎯 **Data Analyst | Power BI | SQL | Python | Data Visualization & Business Insights**  
 📍 India  
 
 I am a **Data Analyst** with hands-on experience in **data cleaning, exploratory data analysis, SQL querying, Power BI dashboards, and Python-based analytics**.  
