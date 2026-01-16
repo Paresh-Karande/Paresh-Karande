@@ -45,8 +45,11 @@ Other Skills:
 
 ## 📂 Featured Projects
 • https://github.com/Paresh-Karande/Project-With-SQL
+
 • https://github.com/Paresh-Karande/Project-With-Excel
+
 • https://github.com/Paresh-Karande/Project_with_PowerBI
+
 • https://github.com/Paresh-Karande/Project_With_Python_EDA
 
 
