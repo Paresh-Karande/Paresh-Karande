@@ -17,7 +17,7 @@ I enjoy transforming raw data into **actionable business insights** and building
 
 ## 🛠️ Key Skills
 
-Data Analysis & BI:
+# Data Analysis & BI:
 
 •	Data Analysis & Reporting
 
@@ -29,9 +29,9 @@ Data Analysis & BI:
 
 •	Data Validation & Quality Checks
 
-Tools & Technologies:
+# Tools & Technologies:
 
-•	SQL (MySQL, SQL Server)
+•	SQL (MySQL)
 
 •	Python (Pandas, NumPy)
 
@@ -42,7 +42,7 @@ Tools & Technologies:
 •	MS PowerPoint
 
 
-Other Skills:
+# Other Skills:
 
 •	SQL Query Optimization
 
